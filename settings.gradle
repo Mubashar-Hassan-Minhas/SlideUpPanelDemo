@@ -1,0 +1,2 @@
+rootProject.name = "SlideUpPanelDemo"
+include ':app'

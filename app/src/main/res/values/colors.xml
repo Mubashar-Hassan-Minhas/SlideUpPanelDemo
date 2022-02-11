@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fca022</color>
+    <!--    <color name="colorPrimaryDark">#656565</color>          &lt;!&ndash;  statusbar color   &ndash;&gt;-->
+    <color name="colorPrimaryDark">#E64F3D</color>
+    <color name="colorAccent">#E64F3D</color>          <!--  statusbar color   -->
+    <color name="red">#FF1100</color>
+    <!--    <color name="colorAccent">#F44336</color>e5573d-->
+    <color name="colorAccentLight">#F8A49E</color>
+    <!--    <color name="colorAccent">#fca022</color>-->
+    <color name="appBlack">#202A3D</color>
+    <color name="black">#000000</color>
+    <color name="lightBlack">#202A3D</color>
+    <color name="white">#FFFFFF</color>
+    <color name="appGray">#8e99ad</color>
+    <color name="photoButton">#ABB7CC</color>
+    <color name="loginGrey">#ABB6C9</color>
+    <color name="grey">#a9a9a9</color>
+    <color name="green">#00AF2A</color>
+    <color name="blue">#03A9F4</color>
+    <color name="light_blue">#00BCD4</color>
+    <color name="all_van_stock_arrow">#40485A</color>
+    <color name="checkout">#d0d2d6</color>
+    <color name="checkout_arrow">#d0d2d6</color>
+    <color name="app_bg_gray">#F0F1F4</color>
+    <color name="app_bg_gray_light">#E0E1E6</color>
+    <color name="app_font_gray">#717B8E</color>
+</resources>
